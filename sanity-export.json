@@ -1,0 +1,2398 @@
+﻿[
+    {
+        "_createdAt":  "2024-10-21T20:35:37Z",
+        "_id":  "0fbe1c1b-281e-4408-8315-627b87a24a2a",
+        "_rev":  "57EMnMDl2Y1cYcN32czI3O",
+        "_type":  "author",
+        "_updatedAt":  "2024-10-21T20:36:14Z",
+        "name":  "Kizunice",
+        "slug":  {
+                     "_type":  "slug",
+                     "current":  "kizunice"
+                 }
+    },
+    {
+        "_createdAt":  "2024-10-21T21:00:55Z",
+        "_id":  "2f43e9ca-6084-4245-9d49-40ec9159f1e7",
+        "_rev":  "i74pvQSUmZcQWEQDZBBGoL",
+        "_type":  "category",
+        "_updatedAt":  "2024-10-21T21:01:21Z",
+        "description":  "Tips dan tata cata kerja di Jepang oleh LPK Kizuna Indonesia Nippon",
+        "slug":  {
+                     "_type":  "slug",
+                     "current":  "tips"
+                 },
+        "title":  "Tips"
+    },
+    {
+        "_createdAt":  "2024-10-24T09:09:26Z",
+        "_id":  "78e75528-7352-49ae-ab86-fd62a2eb1620",
+        "_rev":  "msxYXFhz7KDa8kvAJSwy6G",
+        "_type":  "post",
+        "_updatedAt":  "2024-10-24T09:10:38Z",
+        "author":  {
+                       "_ref":  "0fbe1c1b-281e-4408-8315-627b87a24a2a",
+                       "_type":  "reference"
+                   },
+        "body":  [
+                     {
+                         "_key":  "93e6efa04e43",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "98af475b6440",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  "Jika Anda bermimpi bekerja di Jepang, ada beberapa persyaratan penting yang harus dipenuhi. Tidak hanya kemampuan bahasa Jepang, tetapi juga kualifikasi lainnya. Di artikel ini, kami akan membahas apa saja yang perlu dipersiapkan sebelum melamar kerja di Jepang."
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "d22879c70188",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "f72efa6a7f7b",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  ""
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "f3aaf8899adf",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "f176b941af78",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  "1. Bahasa Jepang (JLPT):"
+                                          },
+                                          {
+                                              "_key":  "f217e945ca75",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  " Menguasai bahasa Jepang adalah salah satu persyaratan utama untuk bekerja di Jepang. JLPT (Japanese Language Proficiency Test) adalah sertifikasi yang digunakan untuk mengukur kemampuan bahasa Jepang seseorang. Sebagian besar perusahaan di Jepang mensyaratkan level N4 sebagai standar minimal, terutama untuk pekerjaan yang melibatkan interaksi langsung dengan orang Jepang. Level N3 dan ke atas biasanya diperlukan untuk posisi yang lebih tinggi atau lebih teknis."
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "8737ed91526e",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "eb8d6006d4e5",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  ""
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "bbaac9cc22dd",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "a4f10e652ab8",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  "2. Kualifikasi Pendidikan:"
+                                          },
+                                          {
+                                              "_key":  "695674c747bf",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  " Sebagian besar pekerjaan di Jepang memerlukan setidaknya lulusan SMA atau SMK. Namun, untuk posisi yang lebih teknis seperti di bidang IT, teknik mesin, atau kesehatan, perusahaan mungkin mencari kandidat dengan latar belakang pendidikan yang lebih tinggi. Pendidikan ini membuktikan bahwa Anda memiliki dasar yang kuat untuk mengembangkan keterampilan yang lebih spesifik selama bekerja."
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "c14ec500eff0",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "260fff1fe189",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  ""
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "08a7171517e3",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "73538004f643",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  "3. Visa Kerja:"
+                                          },
+                                          {
+                                              "_key":  "ee1848ccc2da",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  " Untuk bekerja di Jepang, Anda memerlukan visa kerja yang sah. Visa ini biasanya disponsori oleh perusahaan yang mempekerjakan Anda. Setelah Anda diterima, perusahaan akan membantu Anda mengurus visa dengan memberikan dokumen sponsor yang diperlukan untuk aplikasi visa di Kedutaan Jepang. Proses ini bisa memakan waktu hingga beberapa bulan, tergantung pada jenis visa yang dibutuhkan."
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "76c03c6b35a1",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "b641a10280d7",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  ""
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "a651124c532e",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "888e8eb5b236",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  "4. Kesehatan dan Kelayakan:"
+                                          },
+                                          {
+                                              "_key":  "4e140d7088af",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  " Pemeriksaan kesehatan adalah syarat penting yang harus dipenuhi sebelum bekerja di Jepang. Pemeriksaan ini memastikan bahwa Anda dalam kondisi kesehatan yang baik dan layak untuk bekerja. Pemeriksaan biasanya mencakup tes fisik umum, tes darah, serta pemeriksaan paru-paru untuk memastikan bahwa Anda tidak memiliki penyakit menular."
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "1497bdab6b99",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "de28f282ee26",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  ""
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "d78eb5e71fe3",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "6c22712416e6",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  "5. Sponsorship dari Perusahaan:"
+                                          },
+                                          {
+                                              "_key":  "5b0129a04109",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  " Salah satu hal penting dalam bekerja di Jepang adalah mendapatkan sponsor dari perusahaan. Sponsor ini tidak hanya membantu Anda mendapatkan visa, tetapi juga mempermudah berbagai proses administratif lainnya, seperti pendaftaran di sistem jaminan sosial Jepang dan asuransi kesehatan. Perusahaan sponsor juga akan membantu menyiapkan akomodasi dan orientasi ketika Anda tiba di Jepang."
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "ac5a3eccc446",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "d3ac9b10dbb5",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  ""
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "98e4fa47dec2",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "0afebf98be38",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  "Siap mempersiapkan diri untuk bekerja di Jepang? Dapatkan bimbingan profesional dari LPK Kizuna dengan bergabung dalam program pelatihan kami."
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     }
+                 ],
+        "categories":  [
+                           {
+                               "_key":  "bf6cef8113c3",
+                               "_ref":  "2f43e9ca-6084-4245-9d49-40ec9159f1e7",
+                               "_type":  "reference"
+                           }
+                       ],
+        "mainImage":  {
+                          "_type":  "image",
+                          "asset":  {
+                                        "_ref":  "image-54ac7096579300ecb32b614c68a7386d601f543a-1120x630-png",
+                                        "_type":  "reference"
+                                    }
+                      },
+        "publishedAt":  "2024-10-24T09:09:00.000Z",
+        "slug":  {
+                     "_type":  "slug",
+                     "current":  "syarat-wajib-untuk-bekerja-di-jepang"
+                 },
+        "title":  "Syarat wajib untuk bekerja di Jepang: Apa saja yang harus dipersiapkan?"
+    },
+    {
+        "_createdAt":  "2024-11-06T09:52:49Z",
+        "_id":  "9b8d5e8f-7aab-46fe-b55d-516dfef23f98",
+        "_rev":  "0XGGWk56kaPxudnYmNHc1b",
+        "_type":  "post",
+        "_updatedAt":  "2024-11-06T09:56:06Z",
+        "author":  {
+                       "_ref":  "0fbe1c1b-281e-4408-8315-627b87a24a2a",
+                       "_type":  "reference"
+                   },
+        "body":  [
+                     {
+                         "_key":  "1d706019b40f",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "f9319cf7ed820",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  "Jepang dikenal sebagai negara maju yang memiliki standar gaji dan tunjangan tinggi, terutama untuk tenaga kerja asing. Bagi Anda yang ingin bekerja di Jepang, penting untuk memahami apa saja yang bisa Anda harapkan dalam hal gaji dan tunjangan. Artikel ini akan memberikan gambaran lengkap tentang gaji di Jepang, jenis-jenis tunjangan, serta biaya hidup yang perlu Anda perhitungkan."
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "d799c095384c",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "bd25506c0259",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  ""
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "a3943a7303e0",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "98b8cc79ad770",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  "1. Standar Gaji di Jepang untuk Berbagai Sektor Pekerjaan:"
+                                          },
+                                          {
+                                              "_key":  "98b8cc79ad771",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  " Rata-rata gaji di Jepang bervariasi tergantung pada jenis pekerjaan dan lokasi. Sebagai contoh:"
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "038d0ae7f4e5",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "47a2cf3dc98e0",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  "Manufaktur:"
+                                          },
+                                          {
+                                              "_key":  "47a2cf3dc98e1",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  " Gaji di sektor manufaktur biasanya berkisar antara "
+                                          },
+                                          {
+                                              "_key":  "c0a6d4e3ca16",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  "150,000"
+                                          },
+                                          {
+                                              "_key":  "25a7aa5dc812",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  " hingga "
+                                          },
+                                          {
+                                              "_key":  "80d45b2182a0",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  "250,000"
+                                          },
+                                          {
+                                              "_key":  "ce1b56af7334",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  " yen per bulan."
+                                          }
+                                      ],
+                         "level":  1,
+                         "listItem":  "bullet",
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "de9c917ff0cf",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "a45e8cf756740",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  "Teknologi Informasi (IT):"
+                                          },
+                                          {
+                                              "_key":  "a45e8cf756741",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  " Bidang ini menawarkan gaji rata-rata yang lebih tinggi, sekitar "
+                                          },
+                                          {
+                                              "_key":  "5a9e7e7ac480",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  "300,000"
+                                          },
+                                          {
+                                              "_key":  "0edb3f8e9352",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  " yen ke atas per bulan, tergantung pengalaman dan spesialisasi."
+                                          }
+                                      ],
+                         "level":  1,
+                         "listItem":  "bullet",
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "dad124e53946",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "aecfc34468c00",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  "Kesehatan dan Perawatan:"
+                                          },
+                                          {
+                                              "_key":  "aecfc34468c01",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  " Tenaga kerja di sektor perawatan biasanya mendapatkan gaji mulai dari "
+                                          },
+                                          {
+                                              "_key":  "131a2b57b622",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  "200,000"
+                                          },
+                                          {
+                                              "_key":  "900ecc272b5e",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  " yen, dengan peluang peningkatan gaji seiring bertambahnya pengalaman."
+                                          }
+                                      ],
+                         "level":  1,
+                         "listItem":  "bullet",
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "bf5cf6bd1221",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "72b435ffcfa9",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  ""
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "1e071f5dbae2",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "dfced7464fcd0",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  "2. Bonus dan Insentif Kerja:"
+                                          },
+                                          {
+                                              "_key":  "dfced7464fcd1",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  " Jepang dikenal dengan kebijakan bonus tahunan. Biasanya, perusahaan memberikan "
+                                          },
+                                          {
+                                              "_key":  "dfced7464fcd2",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  "bonus dua kali setahun"
+                                          },
+                                          {
+                                              "_key":  "dfced7464fcd3",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  " (saat musim panas dan akhir tahun), yang dapat mencapai satu hingga tiga kali gaji bulanan Anda. Selain itu, ada juga insentif kinerja berdasarkan pencapaian kerja."
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "01735276cb72",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "572804a89c7e",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  ""
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "4c898428bd22",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "eef1c95ccf62",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  "3. Tunjangan Tambahan:"
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "9d609b3a0ced",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "ff994c006ec80",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  "Asuransi Kesehatan dan Jaminan Sosial:"
+                                          },
+                                          {
+                                              "_key":  "ff994c006ec81",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  " Jepang menawarkan jaminan kesehatan dan tunjangan sosial kepada tenaga kerja, yang meliputi asuransi kesehatan, pensiun, dan asuransi kerja."
+                                          }
+                                      ],
+                         "level":  1,
+                         "listItem":  "bullet",
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "48ca10049de5",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "29bed1bb9ddc0",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  "Tunjangan Transportasi dan Akomodasi:"
+                                          },
+                                          {
+                                              "_key":  "29bed1bb9ddc1",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  " Banyak perusahaan di Jepang menanggung biaya transportasi, dan beberapa bahkan menyediakan akomodasi bagi tenaga kerja asing."
+                                          }
+                                      ],
+                         "level":  1,
+                         "listItem":  "bullet",
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "ba5068aa866b",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "b56cdd9a44770",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  "Tunjangan Pensiun:"
+                                          },
+                                          {
+                                              "_key":  "b56cdd9a44771",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  " Anda berhak atas tunjangan pensiun yang bisa dicairkan kembali ketika kontrak Anda berakhir."
+                                          }
+                                      ],
+                         "level":  1,
+                         "listItem":  "bullet",
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "44de636b0ec6",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "16f7d6338421",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  ""
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "a58865087bb2",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "d3b4f90f49c40",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  "4. Potongan Gaji dan Pajak:"
+                                          },
+                                          {
+                                              "_key":  "d3b4f90f49c41",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  " Setiap karyawan di Jepang dikenai pajak penghasilan dan iuran asuransi sosial. Total potongan berkisar antara 10% hingga 20%, tergantung pada pendapatan dan lokasi kerja."
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "ea3a6405fd71",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "32ae3fb62837",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  ""
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "2c0a15213580",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "04f06453f8090",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  "5. Perbandingan Gaji dengan Biaya Hidup di Jepang:"
+                                          },
+                                          {
+                                              "_key":  "04f06453f8091",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  " Hidup di kota besar seperti Tokyo memang mahal, tapi gaji yang diberikan juga lebih tinggi dibandingkan kota kecil. Rata-rata, pengeluaran bulanan untuk tempat tinggal, transportasi, dan makanan bisa mencapai 100,000 hingga 150,000 yen. Artikel ini akan membantu Anda menyesuaikan ekspektasi gaji dengan biaya hidup di Jepang."
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "debf7b0ea634",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "168b876b7916",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  ""
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "8b49e6f32f0e",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "e9dbce20c89a0",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  "Ingin tahu lebih dalam mengenai gaji dan tunjangan di Jepang? Dapatkan pelatihan dan panduan kerja di LPK Kizuna untuk memulai perjalanan kerja Anda di Jepang."
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     }
+                 ],
+        "mainImage":  {
+                          "_type":  "image",
+                          "alt":  "Gaji di Jepang",
+                          "asset":  {
+                                        "_ref":  "image-35ceb25d56c808971fbcc98f95abd8cb8d7b3bf8-1120x630-png",
+                                        "_type":  "reference"
+                                    }
+                      },
+        "publishedAt":  "2024-11-07T09:53:00.000Z",
+        "slug":  {
+                     "_type":  "slug",
+                     "current":  "gaji-dan-tunjangan-kerja-di-jepang"
+                 },
+        "title":  "Gaji dan Tunjangan Kerja di Jepang: Apa yang Bisa Diharapkan oleh Tenaga Kerja Asing?"
+    },
+    {
+        "_createdAt":  "2024-10-28T04:35:29Z",
+        "_id":  "acf38b86-1563-49ca-aca3-871658e3d171",
+        "_rev":  "cuJSDkQEfH04tJwKCGEiSP",
+        "_type":  "post",
+        "_updatedAt":  "2024-10-28T04:37:32Z",
+        "author":  {
+                       "_ref":  "0fbe1c1b-281e-4408-8315-627b87a24a2a",
+                       "_type":  "reference"
+                   },
+        "body":  [
+                     {
+                         "_key":  "e4cfc6741a8b",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "c7bc97b89e6e0",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  "Jepang bukan hanya negara maju dengan teknologi tinggi, tetapi juga salah satu tujuan favorit tenaga kerja Indonesia. Apa yang membuat Jepang begitu menarik? Berikut lima alasan utama mengapa bekerja di Jepang bisa menjadi langkah terbaik dalam karir Anda."
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "e5668ec5077d",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "4c0feddc8b31",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  ""
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "410ac6f565b6",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "cebb3d5bcb540",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  "1. Kesejahteraan dan Gaji yang Kompetitif:"
+                                          },
+                                          {
+                                              "_key":  "cebb3d5bcb541",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  " Salah satu alasan utama tenaga kerja Indonesia memilih Jepang adalah gaji yang lebih tinggi dibandingkan di Indonesia. Selain itu, Jepang menawarkan tunjangan sosial, asuransi kesehatan, dan pensiun yang sangat baik. Pekerja juga mendapat jaminan perlindungan dalam kondisi kerja yang aman dan profesional."
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "03cdb5f5fdd9",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "ba8debe93a20",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  ""
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "258709b3e5c3",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "cebb3d5bcb542",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  "2. Peluang Karir dan Keahlian Baru:"
+                                          },
+                                          {
+                                              "_key":  "cebb3d5bcb543",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  " Bekerja di Jepang memungkinkan Anda untuk memperoleh keterampilan baru, baik dalam bidang teknologi, manufaktur, kesehatan, maupun sektor lain. Pengalaman bekerja di perusahaan Jepang, yang dikenal akan efisiensi dan kualitas, juga menjadi nilai tambah besar bagi CV Anda di masa depan."
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "71096f0e9f3c",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "31092bd3af47",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  ""
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "216591c51c15",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "cebb3d5bcb544",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  "3. Budaya Kerja yang Disiplin dan Profesional:"
+                                          },
+                                          {
+                                              "_key":  "cebb3d5bcb545",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  " Jepang terkenal dengan budaya kerjanya yang sangat disiplin, fokus pada detail, dan efisiensi. Bekerja di lingkungan yang profesional ini akan meningkatkan etika kerja Anda, termasuk manajemen waktu, tanggung jawab, dan keterampilan kerja sama dalam tim."
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "fec128abb3f3",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "49978a1f6706",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  ""
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "9c7ca7e3fb28",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "cebb3d5bcb546",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  "4. Kesempatan Belajar Bahasa dan Budaya Jepang:"
+                                          },
+                                          {
+                                              "_key":  "cebb3d5bcb547",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  " Selain karir, Anda juga akan mendapatkan kesempatan untuk menguasai bahasa Jepang lebih dalam. Ini tidak hanya berguna untuk pekerjaan sehari-hari, tetapi juga memperkaya pengalaman pribadi Anda. Memahami budaya Jepang akan membantu Anda lebih beradaptasi dan menikmati hidup di negara tersebut."
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "e1c8eeab0836",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "fcd0198aa09a",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  ""
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "8128156d8eb8",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "cebb3d5bcb548",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  "5. Jaminan Kesehatan dan Hak Tenaga Kerja:"
+                                          },
+                                          {
+                                              "_key":  "cebb3d5bcb549",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  " Jepang sangat menghargai hak-hak tenaga kerja. Anda akan dilindungi oleh undang-undang yang memastikan bahwa hak-hak Anda sebagai pekerja terpenuhi, termasuk waktu istirahat yang cukup, upah lembur, dan hak cuti. Sistem jaminan kesehatan di Jepang juga sangat maju dan memastikan Anda mendapatkan perawatan yang baik."
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "57c413826af7",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "f366ebe316f7",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  ""
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "51452d4bf686",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "9cca0832eee10",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  "Tertarik untuk mengembangkan karir di Jepang? Hubungi LPK Kizuna untuk mendapatkan informasi pelatihan kerja."
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     }
+                 ],
+        "mainImage":  {
+                          "_type":  "image",
+                          "alt":  "5 Alasan Mengapa Bekerja di Jepang Pilihan Terbaik ",
+                          "asset":  {
+                                        "_ref":  "image-e06bfaa8e423df06d6f690d48158a345fff00657-1120x630-png",
+                                        "_type":  "reference"
+                                    }
+                      },
+        "publishedAt":  "2024-10-28T04:36:00.000Z",
+        "slug":  {
+                     "_type":  "slug",
+                     "current":  "5-alasan-mengapa-bekerja-di-jepang-pilihan-terbaik"
+                 },
+        "title":  "5 Alasan Mengapa Bekerja di Jepang Pilihan Terbaik "
+    },
+    {
+        "_createdAt":  "2024-10-22T02:03:56Z",
+        "_id":  "f5fcca77-debc-4591-b97c-d755110ed66c",
+        "_rev":  "ZgCTHLQT5xa597d1Mv3fUO",
+        "_type":  "post",
+        "_updatedAt":  "2024-10-22T02:09:26Z",
+        "author":  {
+                       "_ref":  "0fbe1c1b-281e-4408-8315-627b87a24a2a",
+                       "_type":  "reference"
+                   },
+        "body":  [
+                     {
+                         "_key":  "8de225bfb5c3",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "e9ac7adba262",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  "Bekerja di Jepang menjadi impian banyak orang, terutama karena kesempatan kerja yang besar dan budaya kerja yang disiplin. Di "
+                                          },
+                                          {
+                                              "_key":  "3e5e77d5204d",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "6c2b857b5fcc"
+                                                        ],
+                                              "text":  "LPK Kizuna"
+                                          },
+                                          {
+                                              "_key":  "36d6664b0ff1",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  ", kami menawarkan pelatihan komprehensif untuk membantu Anda mewujudkan impian ini. Berikut panduan langkah demi langkah dari pendaftaran hingga berangkat kerja ke Jepang."
+                                          }
+                                      ],
+                         "markDefs":  [
+                                          {
+                                              "_key":  "6c2b857b5fcc",
+                                              "_type":  "link",
+                                              "href":  "https://kizunice.com"
+                                          }
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "50383d574ca8",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "f68d99479f4b",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  ""
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "ba3e1ee6a465",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "a408266c5e8a",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  "1. Persyaratan Dasar:"
+                                          },
+                                          {
+                                              "_key":  "7856fdfbde4f",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  " Untuk bekerja di Jepang, ada beberapa persyaratan yang harus dipenuhi oleh calon pekerja Indonesia. Persyaratan ini termasuk:"
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "83c9ad84bda0",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "93f01b85a94b",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  "Kualifikasi Pendidikan:"
+                                          },
+                                          {
+                                              "_key":  "8af36975a120",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  " Minimal lulusan SMA atau SMK, tergantung jenis pekerjaan. Beberapa bidang seperti teknik atau kesehatan mungkin memerlukan pendidikan yang lebih tinggi."
+                                          }
+                                      ],
+                         "level":  1,
+                         "listItem":  "bullet",
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "cd142bb55a9b",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "0f340c848192",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  "Kemampuan Bahasa Jepang:"
+                                          },
+                                          {
+                                              "_key":  "bfd41f874c0f",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  " Sertifikat kemampuan bahasa Jepang (JLPT) setidaknya level N4 untuk pekerjaan dasar dan level N3 untuk posisi yang lebih teknis."
+                                          }
+                                      ],
+                         "level":  1,
+                         "listItem":  "bullet",
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "2da1f80f7aa4",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "c00ba584d497",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  "Kesehatan:"
+                                          },
+                                          {
+                                              "_key":  "60261b7c939e",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  " Pemeriksaan kesehatan yang menyatakan bahwa Anda layak bekerja. Jepang memiliki standar kesehatan ketat untuk memastikan pekerja dalam kondisi fisik yang prima."
+                                          }
+                                      ],
+                         "level":  1,
+                         "listItem":  "bullet",
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "9fd627580159",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "f70192d77fe1",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  "Umur:"
+                                          },
+                                          {
+                                              "_key":  "dfd973338dab",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  " Biasanya berusia 18-30 tahun, meski beberapa pekerjaan bisa fleksibel soal usia."
+                                          }
+                                      ],
+                         "level":  1,
+                         "listItem":  "bullet",
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "42e7bc62994a",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "73692e93baae",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  ""
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "ff66637aaa46",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "1cf75f15c9d2",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  "2. Proses Pendaftaran di LPK Kizuna:"
+                                          },
+                                          {
+                                              "_key":  "a368724a1c4c",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  " Mendaftar ke LPK Kizuna sangat mudah. Langkah-langkahnya meliputi:"
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "f8e8ddb1e91f",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "3c65a697ff73",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong",
+                                                            "51b56d1d2336"
+                                                        ],
+                                              "text":  "Pendaftaran Online atau Offline"
+                                          },
+                                          {
+                                              "_key":  "3c0bef36b889",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  ":"
+                                          },
+                                          {
+                                              "_key":  "f22666a1c9d8",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  " Isi formulir pendaftaran secara online di website kami atau kunjungi kantor kami."
+                                          }
+                                      ],
+                         "level":  1,
+                         "listItem":  "bullet",
+                         "markDefs":  [
+                                          {
+                                              "_key":  "51b56d1d2336",
+                                              "_type":  "link",
+                                              "href":  "https://bit.ly/Daftarkerjadijepang"
+                                          }
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "9f94a7f81198",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "4b8bdaf4155e",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  "Pengumpulan Dokumen:"
+                                          },
+                                          {
+                                              "_key":  "d59521f90a9b",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  " Dokumen yang dibutuhkan meliputi fotokopi KTP, ijazah terakhir, sertifikat bahasa Jepang (jika sudah ada), dan surat keterangan sehat."
+                                          }
+                                      ],
+                         "level":  1,
+                         "listItem":  "bullet",
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "a4be25d3528d",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "557283fda6ae",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  "Seleksi dan Wawancara:"
+                                          },
+                                          {
+                                              "_key":  "114e5e387083",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  " Setelah dokumen diterima, Anda akan menjalani proses seleksi wawancara untuk menilai motivasi dan kesiapan Anda."
+                                          }
+                                      ],
+                         "level":  1,
+                         "listItem":  "bullet",
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "c769784531a9",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "ff37c8ff8c5c",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  "Pelatihan Intensif:"
+                                          },
+                                          {
+                                              "_key":  "3a6bdf4792fe",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  " Jika lolos seleksi, Anda akan mengikuti pelatihan bahasa dan budaya Jepang yang berlangsung selama 3-6 bulan."
+                                          }
+                                      ],
+                         "level":  1,
+                         "listItem":  "bullet",
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "9e68e15ecdfc",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "a4c878f63d60",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  ""
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "9588f99dfca3",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "8cc5f0484e92",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  "3. Pelatihan Intensif Bahasa dan Budaya Jepang:"
+                                          },
+                                          {
+                                              "_key":  "265f30c1005c",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  " Pelatihan di LPK Kizuna dirancang untuk mempersiapkan Anda agar siap bekerja dan beradaptasi dengan kehidupan di Jepang. Materi pelatihan meliputi:"
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "9aae7c605490",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "10f3c7a4744d",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  "Bahasa Jepang:"
+                                          },
+                                          {
+                                              "_key":  "150efa43fb42",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  " Fokus pada percakapan sehari-hari, frasa umum dalam dunia kerja, serta penulisan huruf Kanji dasar."
+                                          }
+                                      ],
+                         "level":  1,
+                         "listItem":  "bullet",
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "d0b44b12bcf1",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "c08efe856c97",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  "Budaya Jepang:"
+                                          },
+                                          {
+                                              "_key":  "a04c6ea555ac",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  " Pelatihan tentang etiket, norma, dan kebiasaan di tempat kerja. Anda akan mempelajari pentingnya kedisiplinan, kerja tim, dan komunikasi yang baik di lingkungan kerja Jepang."
+                                          }
+                                      ],
+                         "level":  1,
+                         "listItem":  "bullet",
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "54e96c17de06",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "15eaf88b379c",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  "Simulasi Wawancara Kerja:"
+                                          },
+                                          {
+                                              "_key":  "0de61ed5ef50",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  " Kami menyediakan simulasi wawancara kerja untuk membantu Anda mempersiapkan diri menghadapi wawancara dengan perusahaan Jepang."
+                                          }
+                                      ],
+                         "level":  1,
+                         "listItem":  "bullet",
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "9cfc95664442",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "6d197e365f15",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  ""
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "77fd06e41977",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "57647022d0f5",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  "4. Seleksi Kerja di Jepang:"
+                                          },
+                                          {
+                                              "_key":  "0975628318e7",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  " Setelah pelatihan selesai, Anda akan mengikuti sesi seleksi kerja yang diadakan oleh perusahaan Jepang. Proses ini meliputi:"
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "97360deccb9f",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "09e5fdcfa467",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  "Wawancara dengan Perusahaan Jepang:"
+                                          },
+                                          {
+                                              "_key":  "be06a7c8d11e",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  " Biasanya dilakukan secara daring atau langsung di LPK Kizuna. Wawancara ini menilai kemampuan bahasa, pengalaman kerja, dan motivasi Anda."
+                                          }
+                                      ],
+                         "level":  1,
+                         "listItem":  "bullet",
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "10b587ba4e0d",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "1392bdd426b0",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  "Tes Kemampuan Teknis (jika diperlukan):"
+                                          },
+                                          {
+                                              "_key":  "769272248282",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  " Beberapa perusahaan mungkin memerlukan tes tambahan, terutama untuk posisi di bidang teknis seperti IT atau teknik mesin."
+                                          }
+                                      ],
+                         "level":  1,
+                         "listItem":  "bullet",
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "a14d0c2823c0",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "323f9a1a494f",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  "Penawaran Kerja dan Sponsorship Visa:"
+                                          },
+                                          {
+                                              "_key":  "8e34fb5b6530",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  " Jika Anda lolos seleksi, perusahaan Jepang akan memberikan penawaran kerja dan menjadi sponsor visa Anda."
+                                          }
+                                      ],
+                         "level":  1,
+                         "listItem":  "bullet",
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "36895a5e2f27",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "bae9cf1fe003",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  ""
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "3ba35fffd138",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "54c28237e68a",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  "5. Persiapan Keberangkatan dan Penempatan:"
+                                          },
+                                          {
+                                              "_key":  "c0eb2e5a6556",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  " Setelah diterima bekerja, langkah terakhir adalah mempersiapkan keberangkatan Anda ke Jepang:"
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "540add85508a",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "4192fbded1bc",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  "Pengurusan Visa Kerja:"
+                                          },
+                                          {
+                                              "_key":  "c6b1f5d57dc9",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  " Perusahaan akan membantu Anda mengurus visa kerja melalui Kedutaan Besar Jepang."
+                                          }
+                                      ],
+                         "level":  1,
+                         "listItem":  "bullet",
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "5b23910937ea",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "de486d982b01",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  "Tiket dan Akomodasi:"
+                                          },
+                                          {
+                                              "_key":  "913b6850db26",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  " Beberapa perusahaan menyediakan tiket pesawat dan akomodasi selama Anda bekerja di Jepang."
+                                          }
+                                      ],
+                         "level":  1,
+                         "listItem":  "bullet",
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "d4ae3afefe96",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "cac7d8a518be",
+                                              "_type":  "span",
+                                              "marks":  [
+                                                            "strong"
+                                                        ],
+                                              "text":  "Penempatan Kerja:"
+                                          },
+                                          {
+                                              "_key":  "fdd4f3d16ff8",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  " Setibanya di Jepang, Anda akan menjalani orientasi singkat dan mulai bekerja sesuai penempatan."
+                                          }
+                                      ],
+                         "level":  1,
+                         "listItem":  "bullet",
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "cb752877662a",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "58b9ed22796c",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  ""
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     },
+                     {
+                         "_key":  "b00aa7f748d5",
+                         "_type":  "block",
+                         "children":  [
+                                          {
+                                              "_key":  "97610a3e3eee",
+                                              "_type":  "span",
+                                              "marks":  [
+
+                                                        ],
+                                              "text":  "Ingin tahu lebih lanjut? Daftar sekarang di LPK Kizuna untuk memulai perjalanan karir Anda di Jepang."
+                                          }
+                                      ],
+                         "markDefs":  [
+
+                                      ],
+                         "style":  "normal"
+                     }
+                 ],
+        "categories":  [
+                           {
+                               "_key":  "660f4e5b26a0",
+                               "_ref":  "2f43e9ca-6084-4245-9d49-40ec9159f1e7",
+                               "_type":  "reference"
+                           }
+                       ],
+        "mainImage":  {
+                          "_type":  "image",
+                          "alt":  "Panduan untuk bekerja di Jepang oleh LPK Kizuna",
+                          "asset":  {
+                                        "_ref":  "image-03f16217f5b8bddf8a6373fdc6af002f8b6a7486-1120x630-png",
+                                        "_type":  "reference"
+                                    }
+                      },
+        "publishedAt":  "2024-10-22T02:04:00.000Z",
+        "slug":  {
+                     "_type":  "slug",
+                     "current":  "langkah-langkah-untuk-bekerja-di-jepang-panduan-lengkap-dari-pendaftaran-hingga-berangkat"
+                 },
+        "title":  "Langkah-langkah untuk Bekerja di Jepang: Panduan Lengkap dari Pendaftaran hingga Berangkat"
+    },
+    {
+        "_createdAt":  "2024-10-22T00:13:18Z",
+        "_id":  "image-03f16217f5b8bddf8a6373fdc6af002f8b6a7486-1120x630-png",
+        "_rev":  "ZgCTHLQT5xa597d1Mut6jt",
+        "_type":  "sanity.imageAsset",
+        "_updatedAt":  "2024-10-22T00:13:18Z",
+        "assetId":  "03f16217f5b8bddf8a6373fdc6af002f8b6a7486",
+        "extension":  "png",
+        "metadata":  {
+                         "_type":  "sanity.imageMetadata",
+                         "blurHash":  "MiN^Vl~qIor?oz.8D*V@xubHx]aexuW;M{",
+                         "dimensions":  {
+                                            "_type":  "sanity.imageDimensions",
+                                            "aspectRatio":  1.7777777777777777,
+                                            "height":  630,
+                                            "width":  1120
+                                        },
+                         "hasAlpha":  true,
+                         "isOpaque":  true,
+                         "lqip":  "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAdiAAAHYgE4epnbAAACu0lEQVR4nE2S208TaRiH5w8zm000JosHLtZ7g7Zgy2E1BkKx1ZJiPRA0cVmXaKKueyVrSMgigaK0pRREKC20UkArMm2nnU6nhzmUy2czs2i8ePJdfMnzfb/3/QmarvMjTU37TqPZ/E692aTWaFBr1KnV66gWtRqKqlKWZZtKtYrQ0DQUtUaxXCEvlclLMoWSTElWkOQKolTmsFjisCghSiXKimKLvgmLUontdIb1RILs7h6CXFVJ7+UIv08yH1tnIZ4gvJYivplh6cMWC8sbLMQ3iKyl+LC1w+fDPFVVRVEUvuRyRKMxnr94ye/jj+1TKJQqLG+kmQot8Wpmkck3YV7PRZmai/LPbITJ2Qj/Lq6wmsyw8+mAw4OvFLbT7M+HCD17wWjgNm53H5cvd9Ld3YdQKFd4v5lhMbxCdD7C0twi0bkw4bcxllYTxBNpkjv7iKUycr5ALvSWdf8IoYsO/na4CPYP0tNzlUuXnLjdvQiSrJBM75JY3SAbjbMXibEbWebT+iZFsUClqlKtN6ipKmJsmZXrA0z/fJqXp88y0XON8fsPuHP3Pl7vLYaHRxCshWQ/fyW1nSWTyvDxmNx+DkWpYhgGumlSFUW2H08wc6qNv06c5FFHJ3d8fvz+AP7hAMHgPcbGHiI0mpq94S95iZxoUeQgL1GUK3ZN9GNhJbvLms/P5E+n+KP9AmMery0IBIJ4PF58Pj8jI0EE0zTRdIOmptP81kdLYpiYLRPDvtcQt7Z45/HypK2de04XD+6OMjHxlPHxP23pwICH/v7B/4VWLNMwaLVMjo5atI6O0HXdroco5tlMpph+Ncmou5f+878y4Oqxo1oz890cZnDwBn2/XePKlW4ES6RrGoamHUtbWI9YzbdEM29m7WhdnW7On2nn3C/ncDq6GBry2b9yuXpxOl04nF10dDj4D4DPyGsTNRJ+AAAAAElFTkSuQmCC",
+                         "palette":  {
+                                         "_type":  "sanity.imagePalette",
+                                         "darkMuted":  {
+                                                           "_type":  "sanity.imagePaletteSwatch",
+                                                           "background":  "#42323a",
+                                                           "foreground":  "#fff",
+                                                           "population":  0.2,
+                                                           "title":  "#fff"
+                                                       },
+                                         "darkVibrant":  {
+                                                             "_type":  "sanity.imagePaletteSwatch",
+                                                             "background":  "#081930",
+                                                             "foreground":  "#fff",
+                                                             "population":  0.6,
+                                                             "title":  "#fff"
+                                                         },
+                                         "dominant":  {
+                                                          "_type":  "sanity.imagePaletteSwatch",
+                                                          "background":  "#081930",
+                                                          "foreground":  "#fff",
+                                                          "population":  0.6,
+                                                          "title":  "#fff"
+                                                      },
+                                         "lightMuted":  {
+                                                            "_type":  "sanity.imagePaletteSwatch",
+                                                            "background":  "#a1b8cf",
+                                                            "foreground":  "#000",
+                                                            "population":  0.06,
+                                                            "title":  "#fff"
+                                                        },
+                                         "lightVibrant":  {
+                                                              "_type":  "sanity.imagePaletteSwatch",
+                                                              "background":  "#fc749c",
+                                                              "foreground":  "#000",
+                                                              "population":  0,
+                                                              "title":  "#fff"
+                                                          },
+                                         "muted":  {
+                                                       "_type":  "sanity.imagePaletteSwatch",
+                                                       "background":  "#935b5b",
+                                                       "foreground":  "#fff",
+                                                       "population":  0.32,
+                                                       "title":  "#fff"
+                                                   },
+                                         "vibrant":  {
+                                                         "_type":  "sanity.imagePaletteSwatch",
+                                                         "background":  "#e44c58",
+                                                         "foreground":  "#fff",
+                                                         "population":  0.01,
+                                                         "title":  "#fff"
+                                                     }
+                                     }
+                     },
+        "mimeType":  "image/png",
+        "originalFilename":  "Posts 1.png",
+        "path":  "images/6tjutmzi/production/03f16217f5b8bddf8a6373fdc6af002f8b6a7486-1120x630.png",
+        "sha1hash":  "03f16217f5b8bddf8a6373fdc6af002f8b6a7486",
+        "size":  829272,
+        "uploadId":  "jXX1sZ7yZI6wzhdVhgTAW5WXaFv8CUR4",
+        "url":  "https://cdn.sanity.io/images/6tjutmzi/production/03f16217f5b8bddf8a6373fdc6af002f8b6a7486-1120x630.png"
+    },
+    {
+        "_createdAt":  "2024-11-06T09:53:17Z",
+        "_id":  "image-35ceb25d56c808971fbcc98f95abd8cb8d7b3bf8-1120x630-png",
+        "_rev":  "0XGGWk56kaPxudnYmNGAo7",
+        "_type":  "sanity.imageAsset",
+        "_updatedAt":  "2024-11-06T09:53:17Z",
+        "assetId":  "35ceb25d56c808971fbcc98f95abd8cb8d7b3bf8",
+        "extension":  "png",
+        "metadata":  {
+                         "_type":  "sanity.imageMetadata",
+                         "blurHash":  "MnPin[.ma0Vstl%#IAozt8jYtlnhofayaK",
+                         "dimensions":  {
+                                            "_type":  "sanity.imageDimensions",
+                                            "aspectRatio":  1.7777777777777777,
+                                            "height":  630,
+                                            "width":  1120
+                                        },
+                         "hasAlpha":  true,
+                         "isOpaque":  true,
+                         "lqip":  "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAdiAAAHYgE4epnbAAACfklEQVR4nHWS20sUYRjG58/pIgg1BG0tqaRIQ5IiRCWNDYIyE8ELpRuRDveRdVFdZEWRWkaY63k97Mzuzh487LjratMeZndndndc/4FfzKhhURcPz/d+78fD837vI5RKJUq7uzZ2j6BUOuDD+nfPxDRNisWijV3TtHF4J1iHnK6jZbJoWpa0liGdydh1UsuQSu8jmdJIpNJ2L6uliUfWUcIBtFQSs5DHzOs2C9mcTnhjE48viCiH8fhDeOUwoeAqPsmPuOJDEmUkXxApsMqaEmNbieD7OsLs8Es2vCJ6QiWvblHUkgiWo2VvkG/TC7jml5lZFFlaFAnOLxFwzSB/nyY062YtEEaJxdneUdkJBhBfP2PqYT/SiyFiY2Oocy70zbDlMEdwTWHB42dJkhHlEAE5xKbkZ9vrQ/UHSK+toyeT5A2DjBJF+fiBlcE+3N1Olm+24bnlJPR4EHVyDMHIF9hRE0SicTY2YzaisW3UnZ+kEyl0LUPRMDALBbLxOMrwW+See4S7O4j2dhBxXkVqbsBz30lw6BGCtTndMLCcZrJZexm5nE6+YG1xf3vWG/WHysS797xxOnE1X0bpvE6it5Wtu9dYarvERHsTrq4OhL29PazoHI3MH7AiUSwie70MdPfQUV3Fk7OVzLXUEbndyKqzgenGWj6dqWbkdA2CncODLP5P1HIZESWe3+mkq/Ik/dXH+dRYhf/GBfztF5mur+FzWTmjx04gWELW/5j5vM12UP8WLZVIhcK4e/t45TjF09oyRq9Us9J6Hk9bHVMNNYyXVzBmC1ojGQbFXM7mfwlaE2QjCr4HA4xWORh2lDPe5MDdcs7GZL2DLxX7gr8AggzV7h828/cAAAAASUVORK5CYII=",
+                         "palette":  {
+                                         "_type":  "sanity.imagePalette",
+                                         "darkMuted":  {
+                                                           "_type":  "sanity.imagePaletteSwatch",
+                                                           "background":  "#364451",
+                                                           "foreground":  "#fff",
+                                                           "population":  0.44,
+                                                           "title":  "#fff"
+                                                       },
+                                         "darkVibrant":  {
+                                                             "_type":  "sanity.imagePaletteSwatch",
+                                                             "background":  "#912508",
+                                                             "foreground":  "#fff",
+                                                             "population":  0.04,
+                                                             "title":  "#fff"
+                                                         },
+                                         "dominant":  {
+                                                          "_type":  "sanity.imagePaletteSwatch",
+                                                          "background":  "#c7432d",
+                                                          "foreground":  "#fff",
+                                                          "population":  0.49,
+                                                          "title":  "#fff"
+                                                      },
+                                         "lightMuted":  {
+                                                            "_type":  "sanity.imagePaletteSwatch",
+                                                            "background":  "#a8c4b8",
+                                                            "foreground":  "#000",
+                                                            "population":  0.01,
+                                                            "title":  "#fff"
+                                                        },
+                                         "lightVibrant":  {
+                                                              "_type":  "sanity.imagePaletteSwatch",
+                                                              "background":  "#fcaccc",
+                                                              "foreground":  "#000",
+                                                              "population":  0,
+                                                              "title":  "#fff"
+                                                          },
+                                         "muted":  {
+                                                       "_type":  "sanity.imagePaletteSwatch",
+                                                       "background":  "#9a7769",
+                                                       "foreground":  "#fff",
+                                                       "population":  0.18,
+                                                       "title":  "#fff"
+                                                   },
+                                         "vibrant":  {
+                                                         "_type":  "sanity.imagePaletteSwatch",
+                                                         "background":  "#c7432d",
+                                                         "foreground":  "#fff",
+                                                         "population":  0.49,
+                                                         "title":  "#fff"
+                                                     }
+                                     }
+                     },
+        "mimeType":  "image/png",
+        "originalFilename":  "Posts 4.png",
+        "path":  "images/6tjutmzi/production/35ceb25d56c808971fbcc98f95abd8cb8d7b3bf8-1120x630.png",
+        "sha1hash":  "35ceb25d56c808971fbcc98f95abd8cb8d7b3bf8",
+        "size":  906745,
+        "uploadId":  "C6sc1crKrfrvB5hJT7n2ruMCj6xO8syY",
+        "url":  "https://cdn.sanity.io/images/6tjutmzi/production/35ceb25d56c808971fbcc98f95abd8cb8d7b3bf8-1120x630.png"
+    },
+    {
+        "_createdAt":  "2024-10-22T02:11:13Z",
+        "_id":  "image-54ac7096579300ecb32b614c68a7386d601f543a-1120x630-png",
+        "_rev":  "57EMnMDl2Y1cYcN32fALRm",
+        "_type":  "sanity.imageAsset",
+        "_updatedAt":  "2024-10-22T02:11:13Z",
+        "assetId":  "54ac7096579300ecb32b614c68a7386d601f543a",
+        "extension":  "png",
+        "metadata":  {
+                         "_type":  "sanity.imageMetadata",
+                         "blurHash":  "MjO3^L~qIos9tQ.8D%RjxukCx]WAxtW;RP",
+                         "dimensions":  {
+                                            "_type":  "sanity.imageDimensions",
+                                            "aspectRatio":  1.7777777777777777,
+                                            "height":  630,
+                                            "width":  1120
+                                        },
+                         "hasAlpha":  true,
+                         "isOpaque":  true,
+                         "lqip":  "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAdiAAAHYgE4epnbAAACpElEQVR4nE2S7U9TZxiHzx+2GJMZk7kpH/S7QVuw5WVqAlLXbm3K6gvBJRMZ0WRzmpjoEjcyZiaVEkoBFVrBoojQaguc9vS89pzT+vFankeD+3Dlfu4vV+7ffT+K63n8n6bn0nRdHEFT0MR2HIllC2yJKbAsdNOkrmmShmGg2M0mdd1kt6axW6uzV9fYqzdkv6N+7HXT2pfatvNR9km4p9Z4WVxnOZ9n480mSr1hsPp6i8zTF6QX82SX18itFMksFUgvrMh+610V07I/T+o46LpOuVRibm6e327f4frYuKzKXk1jIV/kz+kcfzya5a/pLJPpHPenMtz7e4aH6Xmerb1G1RpSZmga6vo6m4/TTP96m5Hkj4TD/Zw+3UVPTz+KiPe0sE5mdpG5x7Nk/52VNfMky9xinsVCkZdvtlEbOoaqUn4yw3JimOmTAe4GQqQGhujtPcupU0HC4T4UVdNZffWW1WcFNnNLbGUX2Mzm2F4pUHlXkTvUDBPLMKjM51g6f4HJg4e5c/gbJnrPMXb1GpcuXyUa/YFEYhjFtB0quzXK5QrV7TLVrRKVtyWqpffs7KoyqimiVqoUxyeYOnSE37/4kp87u7gUixOPJ4knkqRSVxgd/QnF833EpU1HIC7oYAgsW15Xtywc10Pb2OB5LM6DA4e40XGC0UhUCpLJFJFIlFgszvBwCqXVbtFqtfBF3ae9j9/yaboe1bU1ZiJRbh7p4EowxLXLI0xM3GJs7BcpHRyMMDAwhCJlvofv+1Lcbrdpf2jj+R6GaVLd2aHwYpXJ+w8YCfcxcOw4g6FeGVXsLPZ9gqGh7+j/9hxnzvSgtHwfz3XxXRfxFkIhFj9fiKb+eSSjdXeFOfZ1B0e/Okow0M3FizE5VSjURzAYIhDsprMzwH9lxcx2H61qwwAAAABJRU5ErkJggg==",
+                         "palette":  {
+                                         "_type":  "sanity.imagePalette",
+                                         "darkMuted":  {
+                                                           "_type":  "sanity.imagePaletteSwatch",
+                                                           "background":  "#7c3a40",
+                                                           "foreground":  "#fff",
+                                                           "population":  0.29,
+                                                           "title":  "#fff"
+                                                       },
+                                         "darkVibrant":  {
+                                                             "_type":  "sanity.imagePaletteSwatch",
+                                                             "background":  "#081831",
+                                                             "foreground":  "#fff",
+                                                             "population":  0.53,
+                                                             "title":  "#fff"
+                                                         },
+                                         "dominant":  {
+                                                          "_type":  "sanity.imagePaletteSwatch",
+                                                          "background":  "#081831",
+                                                          "foreground":  "#fff",
+                                                          "population":  0.53,
+                                                          "title":  "#fff"
+                                                      },
+                                         "lightMuted":  {
+                                                            "_type":  "sanity.imagePaletteSwatch",
+                                                            "background":  "#a1b6cd",
+                                                            "foreground":  "#000",
+                                                            "population":  0.04,
+                                                            "title":  "#fff"
+                                                        },
+                                         "lightVibrant":  {
+                                                              "_type":  "sanity.imagePaletteSwatch",
+                                                              "background":  "#fc749c",
+                                                              "foreground":  "#000",
+                                                              "population":  0,
+                                                              "title":  "#fff"
+                                                          },
+                                         "muted":  {
+                                                       "_type":  "sanity.imagePaletteSwatch",
+                                                       "background":  "#697e9c",
+                                                       "foreground":  "#fff",
+                                                       "population":  0.01,
+                                                       "title":  "#fff"
+                                                   },
+                                         "vibrant":  {
+                                                         "_type":  "sanity.imagePaletteSwatch",
+                                                         "background":  "#e44c58",
+                                                         "foreground":  "#fff",
+                                                         "population":  0.01,
+                                                         "title":  "#fff"
+                                                     }
+                                     }
+                     },
+        "mimeType":  "image/png",
+        "originalFilename":  "Posts 2.png",
+        "path":  "images/6tjutmzi/production/54ac7096579300ecb32b614c68a7386d601f543a-1120x630.png",
+        "sha1hash":  "54ac7096579300ecb32b614c68a7386d601f543a",
+        "size":  827190,
+        "uploadId":  "g97bmCqIKdD7N0RG9xZreHrbzuZwvClA",
+        "url":  "https://cdn.sanity.io/images/6tjutmzi/production/54ac7096579300ecb32b614c68a7386d601f543a-1120x630.png"
+    },
+    {
+        "_createdAt":  "2024-10-21T21:11:51Z",
+        "_id":  "image-586d3de75973021be45a9403227b2a29411b2cdc-1120x630-png",
+        "_rev":  "i74pvQSUmZcQWEQDZBpHPz",
+        "_type":  "sanity.imageAsset",
+        "_updatedAt":  "2024-10-21T21:11:51Z",
+        "assetId":  "586d3de75973021be45a9403227b2a29411b2cdc",
+        "extension":  "png",
+        "metadata":  {
+                         "_type":  "sanity.imageMetadata",
+                         "blurHash":  "MiOWjJ~qIor?tQ?bD%RjxuWV%gaexaS2M{",
+                         "dimensions":  {
+                                            "_type":  "sanity.imageDimensions",
+                                            "aspectRatio":  1.7777777777777777,
+                                            "height":  630,
+                                            "width":  1120
+                                        },
+                         "hasAlpha":  true,
+                         "isOpaque":  true,
+                         "lqip":  "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAdiAAAHYgE4epnbAAACv0lEQVR4nFWS608TWRiH5x8zZrMxZne9Je4/wKVAKYgmQihStggp6i6SGHSb1S/W9cua/bBycRHUUsVauSgD2nuZqZ1yazvMtJ2h7YfHzEg0fnhyTk7O++R3zvsK1WKJvWgcKRonm8ujajqHtcMvHH6PaWNimibGEVXDQNN1dF2nUq0iVDWNoiSTl7Ls7O5zoJfti1axYVocFRsGhvFlb5rG1/OSqhJPJBE3NtnakhDK5Qrb+V1SmSzxTJaUnEPKbaPs7vMpv0c6myeVVUhnFWRlh0LpwJZXymWUXI5w+A2BBw+5fcdPIPAQoaBqrMcyzC+tMR2MMLMY4enSKsG36yy8XmN2McLcq2VCyyLvPiSRMzL70RjSiyDPA38zPjqGy3WBlpZ2urp6EPYKKpH3UWaeh5maCzE1t8j00xBT8y95/GyJ6eAbWx5Ly3zKyKTmFli76mOhuY0HbS58vW66uy7S3Oygs7PbEpZYFWO8fhlh5VmI1fkgKxahMOJmjGhaRlJ2UIsltsMRIpfd/PfDSQInT+HvvsTkjZuMXbvB4OBvDA+PIhRVjQ/xDOLqOvHIConwMonwW6SNjxT29ilXq3YzNCXPR/89Zk78wv1jP3KrqY0xjxevdwTv8Ag+33XGxycQ9HKFrLJDIi2TTG2RTG6RSknklG00vUytVqNer6MmkqwMXeWf4ye4ffZXxt2DtmBkxIfbPYjH42V01IdgjYemV7CSFtQDrCYVDjS0ShXzsGYLrfHIb2zyYmCIv34+x3WHk5vXfsfvv8vk5J+2tK/PTW9vP0K90bATWIV2mqPVMA1UVUVR8ojiBlOP/uUPVw+9Z87T5+yyn2r9mWdomP7+K1zouURHh+ub0KZRp9Gw9jUKxSLrosjsk/+ZmLhFR0cnZ06d4/RPp3G0tjMw4LFTOZ3dOBxOWh3tNDW18hlHDtBZ/EoqkQAAAABJRU5ErkJggg==",
+                         "palette":  {
+                                         "_type":  "sanity.imagePalette",
+                                         "darkMuted":  {
+                                                           "_type":  "sanity.imagePaletteSwatch",
+                                                           "background":  "#4b4a4e",
+                                                           "foreground":  "#fff",
+                                                           "population":  11.39,
+                                                           "title":  "#fff"
+                                                       },
+                                         "darkVibrant":  {
+                                                             "_type":  "sanity.imagePaletteSwatch",
+                                                             "background":  "#aa2932",
+                                                             "foreground":  "#fff",
+                                                             "population":  6.16,
+                                                             "title":  "#fff"
+                                                         },
+                                         "dominant":  {
+                                                          "_type":  "sanity.imagePaletteSwatch",
+                                                          "background":  "#4b4a4e",
+                                                          "foreground":  "#fff",
+                                                          "population":  11.39,
+                                                          "title":  "#fff"
+                                                      },
+                                         "lightMuted":  {
+                                                            "_type":  "sanity.imagePaletteSwatch",
+                                                            "background":  "#a6d0d0",
+                                                            "foreground":  "#000",
+                                                            "population":  0.01,
+                                                            "title":  "#fff"
+                                                        },
+                                         "lightVibrant":  {
+                                                              "_type":  "sanity.imagePaletteSwatch",
+                                                              "background":  "#fc7494",
+                                                              "foreground":  "#000",
+                                                              "population":  0,
+                                                              "title":  "#fff"
+                                                          },
+                                         "muted":  {
+                                                       "_type":  "sanity.imagePaletteSwatch",
+                                                       "background":  "#965757",
+                                                       "foreground":  "#fff",
+                                                       "population":  0.18,
+                                                       "title":  "#fff"
+                                                   },
+                                         "vibrant":  {
+                                                         "_type":  "sanity.imagePaletteSwatch",
+                                                         "background":  "#de314e",
+                                                         "foreground":  "#fff",
+                                                         "population":  0.01,
+                                                         "title":  "#fff"
+                                                     }
+                                     }
+                     },
+        "mimeType":  "image/png",
+        "originalFilename":  "Posts 1.png",
+        "path":  "images/6tjutmzi/production/586d3de75973021be45a9403227b2a29411b2cdc-1120x630.png",
+        "sha1hash":  "586d3de75973021be45a9403227b2a29411b2cdc",
+        "size":  733715,
+        "uploadId":  "fsiGZPmkN9eL2U9Q2Hi2Ct3XbwGpDM81",
+        "url":  "https://cdn.sanity.io/images/6tjutmzi/production/586d3de75973021be45a9403227b2a29411b2cdc-1120x630.png"
+    },
+    {
+        "_createdAt":  "2024-10-28T04:36:05Z",
+        "_id":  "image-e06bfaa8e423df06d6f690d48158a345fff00657-1120x630-png",
+        "_rev":  "msxYXFhz7KDa8kvAJoSDDa",
+        "_type":  "sanity.imageAsset",
+        "_updatedAt":  "2024-10-28T04:36:05Z",
+        "assetId":  "e06bfaa8e423df06d6f690d48158a345fff00657",
+        "extension":  "png",
+        "metadata":  {
+                         "_type":  "sanity.imageMetadata",
+                         "blurHash":  "MjN,-@_NNGs9oy-;D%V@xua}%fe-xaSgRP",
+                         "dimensions":  {
+                                            "_type":  "sanity.imageDimensions",
+                                            "aspectRatio":  1.7777777777777777,
+                                            "height":  630,
+                                            "width":  1120
+                                        },
+                         "hasAlpha":  true,
+                         "isOpaque":  true,
+                         "lqip":  "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAdiAAAHYgE4epnbAAACq0lEQVR4nFWS2U8TYRRH5w8zxkRj4sqDvhu0BVsWlwRCtdU2xboQNFFE1MQ1MYrGRAWtSIGhRZayVIpsytJOO12nnc5M6+MxM/CgDye/m+/h5N77XUHXdbR/qGgm2i4V1IqJSllVKZfLlHZRTEolCopCNpezyBeLCKqmUVBKZPJF5FyeVCZnIclZtlMyW5Js5XZaJp3NU1RK/wnTcobF+BLRuTlWVtcQcgWFpfVNInNxxOkYY1MLjEd/MD4TYyQSZUScQgxPE/k+S3x5nWy+YHVbKBTY3NhAFMM8ffaCez29VgrJdJbRqQVeD47y6lOId0GRj6HvDIYmCH0ZIfwxyMSnILPDY6zHl8lIKeSln6x9HWLoyTO6/NdwOls5c6aBpqbWHeHI5DxvgyL9X8Z4PxRmYHSSgeEJhoOjRD4PMxcS2ZqPIS+vsBH8RtR3jaFTNl7aHATaOmhuPs/p03aczhaEbEFhYfkX4egiY9MxxJkYkdlFq+tQJMr41DyLS6vISYmEOM7kxXY+7DvIi4NH6Wu+QM+t21y/cQu3+yo+XydCuaIhZXJsJNL83pb4tS3xO5FibTPB6maSrVSGnFIin0gQ733IwIHDPN+zn7v1DVz3ePF6/Xh9fgKBm3R330HQDQPzp0tqxUJR1Z0sq1Ztno9erZJfWWXG46V/7wHu152k2+W2BH5/AJfLjcfjpbMzgFCtVjExdrNaq/2H+V7RNZKxH4Rcbh4druOm3cHtG1309T2mp+eBJW1vd9HW1rEjNAwdwzAsYa1Wo/anhm7oFBWFpCQxvxDjw5t+upwttB0/Qbuj2RrV3Jnnio+Ojsu0nrvA2bNNCFXDQNc0DE3DrE2hKTYv3xQNDH62RmtscHL8SB3HDh3Dbmvk0iWP1ZXD0YLd7sBmb6S+3sZfAGLHdE9pKZUAAAAASUVORK5CYII=",
+                         "palette":  {
+                                         "_type":  "sanity.imagePalette",
+                                         "darkMuted":  {
+                                                           "_type":  "sanity.imagePaletteSwatch",
+                                                           "background":  "#443239",
+                                                           "foreground":  "#fff",
+                                                           "population":  0.2,
+                                                           "title":  "#fff"
+                                                       },
+                                         "darkVibrant":  {
+                                                             "_type":  "sanity.imagePaletteSwatch",
+                                                             "background":  "#091731",
+                                                             "foreground":  "#fff",
+                                                             "population":  0.69,
+                                                             "title":  "#fff"
+                                                         },
+                                         "dominant":  {
+                                                          "_type":  "sanity.imagePaletteSwatch",
+                                                          "background":  "#ac2831",
+                                                          "foreground":  "#fff",
+                                                          "population":  5.74,
+                                                          "title":  "#fff"
+                                                      },
+                                         "lightMuted":  {
+                                                            "_type":  "sanity.imagePaletteSwatch",
+                                                            "background":  "#9fb4ce",
+                                                            "foreground":  "#000",
+                                                            "population":  0.06,
+                                                            "title":  "#fff"
+                                                        },
+                                         "lightVibrant":  {
+                                                              "_type":  "sanity.imagePaletteSwatch",
+                                                              "background":  "#e65e74",
+                                                              "foreground":  "#fff",
+                                                              "population":  0.04,
+                                                              "title":  "#fff"
+                                                          },
+                                         "muted":  {
+                                                       "_type":  "sanity.imagePaletteSwatch",
+                                                       "background":  "#6c84a4",
+                                                       "foreground":  "#fff",
+                                                       "population":  0,
+                                                       "title":  "#fff"
+                                                   },
+                                         "vibrant":  {
+                                                         "_type":  "sanity.imagePaletteSwatch",
+                                                         "background":  "#ac2831",
+                                                         "foreground":  "#fff",
+                                                         "population":  5.74,
+                                                         "title":  "#fff"
+                                                     }
+                                     }
+                     },
+        "mimeType":  "image/png",
+        "originalFilename":  "Posts 3.png",
+        "path":  "images/6tjutmzi/production/e06bfaa8e423df06d6f690d48158a345fff00657-1120x630.png",
+        "sha1hash":  "e06bfaa8e423df06d6f690d48158a345fff00657",
+        "size":  827991,
+        "uploadId":  "HURxVqoegockponeI75rwedvsw3GDkws",
+        "url":  "https://cdn.sanity.io/images/6tjutmzi/production/e06bfaa8e423df06d6f690d48158a345fff00657-1120x630.png"
+    }
+]

@@ -1,0 +1,14 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://kizunice.com</loc>
+        <xhtml:link
+        rel="alternate"
+        hreflang="id"
+        href="https://kizunice.com/id"/>
+        <xhtml:link
+        rel="alternate"
+        hreflang="jp"
+        href="https://kizunice.com/jp"/>
+        <lastmod>2024-10-20T15:02:24.021Z</lastmod>
+    </url>
+</urlset>

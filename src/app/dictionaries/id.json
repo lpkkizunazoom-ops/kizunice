@@ -1,0 +1,65 @@
+{
+  "header": {
+    "link1": "Beranda",
+    "link2": "Tentang Kizuna",
+    "link3": "Program",
+    "link4": "Blog",
+    "link5": "Kontak Kami",
+    "button": "Daftar Sekarang"
+  },
+  "foot": {
+    "link1": "Beranda",
+    "link2": "Tentang Kizuna",
+    "link3": "Program",
+    "link4": "Kontak Kami"
+  },
+  "hero": {
+    "welcome": "Mulai karir barumu di Jepang bersama LPK Kizuna",
+    "subwelcome": "Dengan Kizuna Nippon, bukan hanya sekadar bekerja di Jepang, tetapi membuka jalan bagi karier yang gemilang. Temukan pelatihan terbaik, koneksi yang luas, dan dukungan penuh untuk mewujudkan impian karier Anda di negeri Matahari Terbit",
+    "button": "Tentang LPK Kizuna"
+  },
+  "about": {
+    "title": "Tentang Kizuna",
+    "subtitle1": "LPK Kizuna Indonesia Nippon merupakan lembaga pelatihan bahasa Jepang yang berdiri pada tanggal 1 Mei 2023 yang membina sikap mental disiplin untuk meningkatkan kualitas dan keterampilan untuk bersaing serta diterima di dunia kerja di dalam maupun di luar negeri.",
+    "subtitle2": "Untuk mencapai hasil maksimal dalam pelaksanaan program, LPK Kizuna Indonesia Nippon bekerjasama dengan instansi dan lembaga yang sudah mendapatkan kepercayaan dan dapat dipertanggungjawabkan.",
+    "subtitle3": "Harapannya setelah mengikuti program kami, para generasi muda memiliki keterampilan yang memadai dan didukung oleh pengalaman, sikap kerja positif, kreatifitas, dan kemandirian sehingga mampu membuka usaha sendiri dan berhasil."
+  },
+  "program": {
+    "head": "Program Kizuna",
+    "content": [
+      {
+        "title": "Tokutei Ginou",
+        "subtitle": "Tokutei Ginou adalah program pelatihan yang dirancang khusus untuk mempersiapkan individu untuk pekerjaan teknis atau keterampilan khusus di Jepang."
+      },
+      {
+        "title": "Magang",
+        "subtitle": "Program pelatihan kerja di Jepang yang menggabungkan pembelajaran langsung di tempat kerja dengan pengembangan kemampuan bahasa Jepang."
+      },
+      {
+        "title": "Nihongo Gakkou",
+        "subtitle": "Program ini mencakup pembelajaran aspek-aspek dasar bahasa Jepang seperti kosa kata, tata bahasa, dan kecakapan berbicara serta mendengarkan."
+      },
+      {
+        "title": "Engineering",
+        "subtitle": "Program yang diperuntukkan bagi para lulusan teknik (S1/D3) yang ingin bekerja di Jepang sebagai engineer profesional."
+      }
+    ]
+  },
+  "footer": {
+    "description": "Kizuna Indonesia Nippon adalah lembaga pelatihan yang didedikasikan untuk membantu para pencari kerja mewujudkan impian mereka bekerja di Jepang. . 🇮🇩🇯🇵",
+    "menu": {
+      "title": "Menu",
+      "link1": "Tentang Kizuna",
+      "link2": "Program Kami",
+      "link3": "Fasilitas LPK",
+      "link4": "Link Pendaftaran"
+    },
+    "kontak": {
+      "title": "Kontak",
+      "email": "lpkkizunanippon@gmail.com",
+      "phone": "0898 4969 742",
+      "address": "Kp Dadap, Pangadegan, Kec. Ps. Kemis, Kabupaten Tangerang, Banten 15560"
+    },
+    "copy": "Copyright  © 2026 kizunice.com"
+  }
+}
