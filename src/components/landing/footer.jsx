@@ -8,11 +8,11 @@ import {
     RiTiktokFill,
     RiInstagramFill
 } from "react-icons/ri"
-import { MdEmail, MdPhone, MdLocationOn   } from "react-icons/md";
+import { MdEmail, MdPhone, MdLocationOn } from "react-icons/md";
 
 import Logo from '../../../public/logo-kizunice-white.png'
 
-export default function Footer({props}) {
+export default function Footer({ props }) {
     return (
         <footer className="bg-secondary" id="kontak">
             <div className="max-w-[78rem] mx-auto px-8 py-12 lg:pt-12">
@@ -20,7 +20,7 @@ export default function Footer({props}) {
                     <div>
                         <div className="flex justify-start text-left ">
                             <Link href={"/"}>
-                                <Image src={Logo} width={140}  height={100} alt="Logo INA" />
+                                <Image src={Logo} width={140} height={100} alt="Logo INA" />
                             </Link>
                         </div>
 
@@ -81,13 +81,13 @@ export default function Footer({props}) {
                                 </li>
                                 <li>
                                     <Link className="text-gray-100 transition hover:text-gray-100/75" href="/#facility">
-                                    {props.menu.link3}
+                                        {props.menu.link3}
                                     </Link>
                                 </li>
                                 <li>
-                                    <Link 
-                                        className="text-gray-100 transition hover:text-gray-100/75" 
-                                        href="https://bit.ly/Daftarkerjadijepang" 
+                                    <Link
+                                        className="text-gray-100 transition hover:text-gray-100/75"
+                                        href="https://bit.ly/daftarlpkkin2026"
                                         target="_blank">
                                         {props.menu.link4}
                                     </Link>
@@ -97,48 +97,48 @@ export default function Footer({props}) {
                     </div>
 
                     <div className="text-left">
-                            <p className="text-lg font-medium text-white">
-                                {props.kontak.title}
-                            </p>
+                        <p className="text-lg font-medium text-white">
+                            {props.kontak.title}
+                        </p>
 
-                            <ul className="mt-4 md:mt-8 space-y-4 text-sm">
-                                <li>
-                                    <Link
-                                        className="flex items-center justify-center gap-1.5 ltr:sm:justify-start rtl:sm:justify-end"
-                                        href="/"
-                                        target="_blank"
-                                    >
-                                        <MdEmail fontSize={18} className="text-gray-100" />
+                        <ul className="mt-4 md:mt-8 space-y-4 text-sm">
+                            <li>
+                                <Link
+                                    className="flex items-center justify-center gap-1.5 ltr:sm:justify-start rtl:sm:justify-end"
+                                    href="/"
+                                    target="_blank"
+                                >
+                                    <MdEmail fontSize={18} className="text-gray-100" />
 
-                                        <span className="flex-1 text-gray-100">                               
-                                            {props.kontak.email}
-                                        </span>
-                                    </Link>
-                                </li>
+                                    <span className="flex-1 text-gray-100">
+                                        {props.kontak.email}
+                                    </span>
+                                </Link>
+                            </li>
 
-                                <li>
-                                    <Link
-                                        className="flex items-center justify-center gap-1.5 ltr:sm:justify-start rtl:sm:justify-end"
-                                        href="https://wa.link/r8mojx"
-                                        target="_blank"
-                                    >
-                                        <MdPhone fontSize={18} className="text-gray-100" />
-                                        <span className="flex-1 text-gray-100">
-                                            {props.kontak.phone}
+                            <li>
+                                <Link
+                                    className="flex items-center justify-center gap-1.5 ltr:sm:justify-start rtl:sm:justify-end"
+                                    href="https://wa.link/r8mojx"
+                                    target="_blank"
+                                >
+                                    <MdPhone fontSize={18} className="text-gray-100" />
+                                    <span className="flex-1 text-gray-100">
+                                        {props.kontak.phone}
 
-                                        </span>
-                                    </Link>
-                                </li>
+                                    </span>
+                                </Link>
+                            </li>
 
-                                <li className="flex items-start justify-center gap-1.5 ltr:sm:justify-start rtl:sm:justify-end">
-                                    <MdLocationOn fontSize={18} className="text-gray-100"/>
+                            <li className="flex items-start justify-center gap-1.5 ltr:sm:justify-start rtl:sm:justify-end">
+                                <MdLocationOn fontSize={18} className="text-gray-100" />
 
-                                    <address className="-mt-0.5 flex-1 not-italic text-gray-100">
-                                        {props.kontak.address}
-                                    </address>
-                                </li>
-                            </ul>
-                        </div>
+                                <address className="-mt-0.5 flex-1 not-italic text-gray-100">
+                                    {props.kontak.address}
+                                </address>
+                            </li>
+                        </ul>
+                    </div>
                 </div>
 
                 <div className="mt-10 border-t border-gray-300 pt-6">
