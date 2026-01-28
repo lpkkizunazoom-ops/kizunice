@@ -63,14 +63,27 @@ const RenderLocalContent = ({ body }) => {
           case 'heading':
             return <h2 key={index} className="text-2xl font-semibold mt-8 mb-4">{block.content}</h2>;
           case 'paragraph':
-            return <p key={index} className="mb-4 leading-relaxed">{block.content}</p>;
+            return <p key={index} className="mb-4 leading-relaxed text-gray-700">{block.content}</p>;
           case 'list':
             return (
-              <ul key={index} className="list-disc list-inside mb-4">
+              <ul key={index} className="list-disc list-inside mb-4 ml-4">
                 {block.items?.map((item, i) => (
-                  <li key={i}>{item}</li>
+                  <li key={i} className="mb-2 text-gray-700">{item}</li>
                 ))}
               </ul>
+            );
+          case 'image':
+            return (
+              <div key={index} className="my-8">
+                <img
+                  src={block.src}
+                  alt={block.alt || "Blog image"}
+                  className="w-full h-auto rounded-lg shadow-md"
+                />
+                {block.caption && (
+                  <p className="text-center text-sm text-gray-500 mt-2 italic">{block.caption}</p>
+                )}
+              </div>
             );
           default:
             return <p key={index} className="mb-4">{block.content}</p>;
